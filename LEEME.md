@@ -41,7 +41,7 @@ Si quieres una dirección tipo `runfitlife.com`, compra el dominio (unos 10-15 �
 ## Cómo actualizarla
 
 1. Sustituye `index.html` (y lo que cambie) en GitHub o Netlify.
-2. Abre `sw.js` y sube el número de versión: cambia `runfitlife-v1` por `runfitlife-v2`, y así sucesivamente. Así todos los móviles reciben la versión nueva.
+2. Abre `sw.js` y sube el número de versión: cambia el número (por ejemplo `runfitlife-v2` por `runfitlife-v3`), y así sucesivamente. Así todos los móviles reciben la versión nueva.
 
 ## Importante sobre los datos
 

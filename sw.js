@@ -1,5 +1,5 @@
 /* RunFitLife: service worker. Si cambias la app, sube el número de versión para que todos reciban la actualización. */
-var CACHE = 'runfitlife-v1';
+var CACHE = 'runfitlife-v3';
 var SHELL = ['./', 'index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'icon-maskable-512.png', 'apple-touch-icon.png', 'favicon.png'];
 
 self.addEventListener('install', function (e) {
